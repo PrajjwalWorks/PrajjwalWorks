@@ -6,7 +6,7 @@
 
 Passionate about developing mobile and web applications, with strong expertise in **Android development**, **Java**, **Firebase**, and **UI/UX** design. I focus on creating projects that are both functional and user-friendly, aiming to deliver high-quality solutions that solve real-world problems. Along the way, I continuously explore and experiment with new technologies to enhance my skills and stay updated in the ever-evolving tech landscape. I also have experience in frontend development using **HTML**, **CSS**, **JavaScript**, and **PHP**, which allows me to work on full-stack solutions and integrate smooth, responsive designs.
 ***
-<h3 align="left">Languages and Tools:</h3>
+**<h3 align="left">🧰 Languages and Tools</h3>**
 
 <table>
   <tr>
