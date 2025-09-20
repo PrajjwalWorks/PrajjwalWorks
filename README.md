@@ -33,10 +33,10 @@ Passionate about developing mobile and web applications, with strong expertise i
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=PrajjwalWorks&show_icons=true&theme=transparent" alt="Prajjwal's GitHub stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=PrajjwalWorks&show_icons=true&theme=transparent&hide_border=true" alt="Prajjwal's GitHub stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajjwalWorks&layout=compact&theme=transparent" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajjwalWorks&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
     </td>
   </tr>
 </table>
